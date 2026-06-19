@@ -143,8 +143,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## Contact
-Maintainer: [your name or handle]
-Email: your-email@example.com
+Maintainer: Rohan kalmodiya
+Email: your-rohankalmodiya0001@gmail.com
 Repo: https://github.com/rohankalmodiya0001-creator/talentpilot-ai
 
 ---
